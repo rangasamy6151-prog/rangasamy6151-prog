@@ -13,7 +13,8 @@
 
 - 💬 Ask me about front-end development, JavaScript, React, Python, Django, and full stack web application development. **HTML,CSS,JavaScript,ReactJS,Python,MySQL,Django**
 
-- 📫 How to reach me **+91 6385525635 rangasamy6151@gmail.com, linkedin.com/in/rangasamy-m-213ba2383 Kinathukadavu,Coimbatore**
+- 📫 How to reach me **+91 6385525635 rangasamy6151@gmail.com, [LinkedIn](https://www.linkedin.com/in/rangasamy-m-213ba2383)
+ Kinathukadavu,Coimbatore**
 
 - 📄 Know about my experiences I have hands-on experience in web development, working with HTML, CSS, JavaScript, Python, Django, and SQL. I’ve developed responsive websites, managed databases, and worked on projects that improved my problem-solving and technical skills. [https://drive.google.com/file/d/1EFOuH_U1MqK24t7F3Cj7Y_CcBwvPS_O0/view?usp=drivesdk](https://drive.google.com/file/d/1EFOuH_U1MqK24t7F3Cj7Y_CcBwvPS_O0/view?usp=drivesdk)
 
