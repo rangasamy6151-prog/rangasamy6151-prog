@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning advanced JavaScript concepts, React development, and improving my Django and full stack project-building skills. **Django,React.js**
 
-- 👯 I’m looking to collaborate on Front-end and full stack web development projects using React, Django, and JavaScript. [CineVault](https://rangasamy6151-prog.github.io/MovieHunt)
-
-- 🤝 I’m looking for help with improving my React skills, advanced Django features, and optimizing full stack application performance. [DjangoMart](https://github.com/rangasamy6151-prog/Django-Mart)
+- 👯 I’m looking to collaborate on Front-end and full stack web development projects using React, Django, and JavaScript. [QR Generator App](https://rangasamy6151-prog.github.io/QR-Maker/)
+- 🤝 I’m looking for help with improving my React skills, advanced Django features, and optimizing full stack application performance. [Blog App](https://github.com/rangasamy6151-prog/Blog)
 
 - 💬 Ask me about front-end development, JavaScript, React, Python, Django, and full stack web application development. **HTML,CSS,JavaScript,ReactJS,Python,MySQL,Django**
 
